@@ -1,5 +1,4 @@
 # CLI app
-____
 ## Results of running a console app:
  <a href="https://ibb.co/hB2BKvM"><img src="https://i.ibb.co/WkBkc13/node-hw-01-1.png" alt="screen-1" border="0" /></a>
  <a href="https://ibb.co/X7y8dKZ"><img src="https://i.ibb.co/By4N7QV/node-hw-01-2.png" alt="screen-2" border="0" /></a>
